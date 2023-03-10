@@ -10,7 +10,8 @@
             //FirstCreate.First_Create();
             //.Append_CreateList();
             //.Insert_List();
-            DeleteFirstElement.DeleteFirst_Element();
+           // DeleteFirstElement.DeleteFirst_Element();
+            DeleteLastElement.DeleteLast_Element();
 
         }
     }
