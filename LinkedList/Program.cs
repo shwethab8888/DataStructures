@@ -9,7 +9,8 @@
             //CreateList.Create_List();
             //FirstCreate.First_Create();
             //.Append_CreateList();
-            InsertList.Insert_List();
+            //.Insert_List();
+            DeleteFirstElement.DeleteFirst_Element();
 
         }
     }
