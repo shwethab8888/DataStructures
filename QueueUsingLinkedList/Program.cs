@@ -7,8 +7,8 @@
             //Console.WriteLine("Welcome to Queue using Linked List");
 
 
-            CreateQueue.Create_Queue();
-
+            // CreateQueue.Create_Queue();
+            LinkedListDeQueue.LinkedList_DeQueue();
         }
     }
 }
