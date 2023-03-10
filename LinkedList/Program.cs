@@ -7,8 +7,9 @@
             // Console.WriteLine("Welcome to LinkedList");
 
             //CreateList.Create_List();
-            FirstCreate.First_Create();
-        
+            //FirstCreate.First_Create();
+            AppendCreateList.Append_CreateList();
+
         }
     }
 }
