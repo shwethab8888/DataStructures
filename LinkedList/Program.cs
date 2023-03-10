@@ -6,8 +6,8 @@
         {
             // Console.WriteLine("Welcome to LinkedList");
 
-            CreateList.Create_List();
-
+            //CreateList.Create_List();
+            FirstCreate.First_Create();
         
         }
     }
