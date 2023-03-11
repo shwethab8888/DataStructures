@@ -62,16 +62,13 @@ namespace LinkedList
         {
             InsertList linked_list = new InsertList();
 
-            // Add the first element
             linked_list.Add(56);
 
-            // Insert 30 between 56 and 70
             linked_list.Insert(56, 30);
 
-            // Add the last element
             linked_list.Add(70);
 
-            // Print the linked list
+        
             linked_list.PrintList();
         }
     }
